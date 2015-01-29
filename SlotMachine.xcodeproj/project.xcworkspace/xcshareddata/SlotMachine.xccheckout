@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>669461BF-0119-4298-A55F-DEFF8CD03743</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SlotMachine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E1CBAAF3D497090A54DB9E764E2F87B9CB41CDDE</key>
+		<string>https://github.com/matt-linaberry/SlotMachine.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SlotMachine.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E1CBAAF3D497090A54DB9E764E2F87B9CB41CDDE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/matt-linaberry/SlotMachine.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E1CBAAF3D497090A54DB9E764E2F87B9CB41CDDE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1CBAAF3D497090A54DB9E764E2F87B9CB41CDDE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SlotMachine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
